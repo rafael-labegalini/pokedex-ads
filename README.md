@@ -1,1 +1,3 @@
-# pokedex-ads
+# Pokedex ADS
+
+trabalho de ADS
